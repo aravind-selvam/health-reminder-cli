@@ -36,7 +36,7 @@ interval_config:
     - done
     - Done
 ```
-### STEP 03- run app.py
+### STEP 03- run app
 ```
 python health_reminder.py
 ```
