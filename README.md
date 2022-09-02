@@ -1,6 +1,6 @@
 # Health Reminder application using Python
 
-# Text to speech using Python
+# Reminder app using Python
 Health Reminder is a python application that uses pygame and plyer to remind the user to drink water, Workout and Relax your eyes.
 
 ## How to run?
@@ -61,6 +61,4 @@ python health_reminder.py
 
 ## Authors
 iNeuron Private limited
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/aravind9722/text-to-speech/blob/main/LICENSE) file for details
+Aravind
