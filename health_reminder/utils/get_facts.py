@@ -1,4 +1,7 @@
 def get_water_facts():
+    """
+    gets Random Water facts
+    """
     water_facts = [
         "Even mild dehydration can reduce physical performance",
         "Drink more water","Keep calm and drink water",
@@ -8,6 +11,9 @@ def get_water_facts():
     return water_facts
     
 def get_exercise_facts():
+    """
+    gets Random Exercise facts
+    """
     workout_facts = [
         "Exercising improves brain performance",
         "Working out sharpens your memory",
@@ -17,6 +23,9 @@ def get_exercise_facts():
     return workout_facts
 
 def get_eye_facts():
+    """
+    Gets Random eye facts 
+    """
     relax_eye_facts = [
         "Taking a break from the screen will help you bring balance to your digital and real-world lives",
         "Stepping away from technology not only gives your brain a break but also gives you the added bonus of perspective.",

@@ -21,19 +21,36 @@ conda create -p venv python=3.9.12 -y
 conda activate venv
 ```
 
-
 ### STEP 02- install the requirements
 ```
 pip install -r requirements.txt
 ```
-
-### STEP 03- run app.p
+### STEP 03- Change your input you need in Config.yaml interval_config
+```
+interval_config:
+  workout_interval: 10
+  drinkwater_interval: 10
+  eyes_relax_interval: 30
+  user_commands:
+    - DONE
+    - done
+    - Done
+```
+### STEP 03- run app.py
 ```
 python health_reminder.py
 ```
 
 - **Timelogs of our work are stored in reminder_timelogs folder.**
 - **Application logs are stored in pylogs folder.**
+
+## Demo
+### Workout Reminder
+![workout](imagemd/workout.png)
+### Water Reminder
+![drinkwater](imagemd/water.png)
+### Eyerelax Reminder
+![eye](imagemd/eyes.png)
 
 ## Built With
 

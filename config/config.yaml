@@ -1,0 +1,27 @@
+application_config:
+  app_name: health_reminder
+  logs_dir: all_logs
+  resources_dir: resources
+  timelog_dir: timelogs
+  audio_dir: audio
+  icon_dir: icons
+
+interval_config:
+  workout_interval: 90
+  drinkwater_interval: 15
+  eyes_relax_interval: 30
+  user_commands:
+    - DONE
+    - done
+    - Done
+
+file_names:
+  waterico : waters.ico
+  watermp3 : waters.mp3
+  workoutico : workout.ico
+  workoutmp3 : workout.mp3
+  eyesico : eyes.ico
+  eyesmp3 : eyes.mp3
+  timelogs: reminder_logs.txt
+
+
