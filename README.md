@@ -41,8 +41,8 @@ interval_config:
 python health_reminder.py
 ```
 
-- **Timelogs of our work are stored in reminder_timelogs folder.**
-- **Application logs are stored in pylogs folder.**
+- **Timelogs of our work are stored in all_logs directory in timelogs folder**
+- **Application logs are stored in all_logs directory pylogs folder.**
 
 ## Demo
 ### Workout Reminder
