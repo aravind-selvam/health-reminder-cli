@@ -1,7 +1,8 @@
 # Health Reminder application using Python
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=clion&logoColor=white)
 
-# Reminder app using Python
-Health Reminder is a python application that uses pygame and plyer to remind the user to drink water, Workout and Relax your eyes.
+Health Reminder is a python application that uses pygame and plyer to remind the user to drink water, workout, and relax their eyes.
 
 ## How to run?
 ### STEPS:
@@ -58,7 +59,16 @@ python health_reminder.py
 2. Plyer 
 3. Python (Python 3.9.12)
 
+## Contributions
+Please feel free to fork this repository and submit pull requests. Any contributions are welcome and appreciated!
 
-## Authors
-iNeuron Private limited
-Aravind
+## Contact
+For any questions or feedback, please contact me at: aravind_selvam@outlook.com
+
+## License
+This project is licensed under the [MIT License](https://github.com/aravind-selvam/Text-to-Speech-web-application/blob/main/LICENSE)
+
+## Acknowledgments
+Python
+Pygame
+Plyer
